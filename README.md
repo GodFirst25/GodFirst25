@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GodFirst25
-- 👀 I’m interested in creating websites and applications for companies or industries.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Olamide Oduntan.
+- 👀 I’m interested in creating websites and applications for companies and industries.
+- 🌱 I’m currently learning Front-end Development.
+- 💞️ I want to collaborate on websites and applications that interest me.
 - 📫 How to reach me ...
 
 <!---
